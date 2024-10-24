@@ -1,0 +1,9 @@
+.png
+src/test
+# 忽略编译后的类文件
+target/archiver-tmp/
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+target/maven-archiver
+target/maven-status
